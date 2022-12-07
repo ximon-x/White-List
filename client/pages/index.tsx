@@ -7,7 +7,7 @@ import Web3Modal from "web3modal";
 import {
   WHITELIST_CONTRACT_ADDRESS,
   WHITELIST_CONTRACT_ABI,
-} from "../../Constants";
+} from "../Constants";
 import { Contract, providers } from "ethers";
 import Image from "next/image";
 
